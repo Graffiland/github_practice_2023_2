@@ -1,5 +1,4 @@
 # github_practice_2023_2
-Practice Session
 
 For your assignment, answer the following questions
 
