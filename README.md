@@ -12,7 +12,7 @@ For your assignment, answer the following questions
 
 
 4. What is a pull request? (Mildred)
-
+A pull request is a notifying mechanism that you use to tell others about changes you've pushed to a repository in GitHub.
 
 5. What are the advantages of using git and github? (Eratus)
 
