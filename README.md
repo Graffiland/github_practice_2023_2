@@ -16,6 +16,7 @@ For your assignment, answer the following questions
 
 5. What are the advantages of using git and github? (Eratus)
 
+Version control, Team collaboration, Code review, Open source development, Access control, Hosting and integration.
 
 6. Give another example of a versioning program (Euchenie)
 
