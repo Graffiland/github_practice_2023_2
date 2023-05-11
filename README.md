@@ -16,6 +16,7 @@ A pull request is a notifying mechanism that you use to tell others about change
 
 5. What are the advantages of using git and github? (Eratus)
 
+Version control, Team collaboration, Code review, Open source development, Access control, Hosting and integration.
 
 6. Give another example of a versioning program (Euchenie)
 
