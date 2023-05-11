@@ -3,7 +3,8 @@
 For your assignment, answer the following questions
 
 1. What is git and github? (Bernice)
-Git is a tool or software used to manage or keep track of source data history while Github is a cloud based location or service where these source data history are saved in repositories and managed.
+Git is a tool or software used to manage or keep track of source data history. 
+While Github is a cloud based location or service where these source data history are saved in repositories and managed.
 
 2. What is a repository?(Lovis)
 
