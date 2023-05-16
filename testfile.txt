@@ -1,0 +1,1 @@
+This is a test exercise to show you how to run git in a virtual machine
